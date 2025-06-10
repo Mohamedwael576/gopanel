@@ -13,10 +13,7 @@
 
 ## 📥 تحميل وتنفيذ سكربت التثبيت
 
-انسخ الأمر التالي في التيرمنال الخاص بك لتثبيت لوحة Gopanel:
+قم بتنفيذ الأمر التالي لتحميل السكربت:
 
 ```bash
-curl -s -o latest -L https://mohamedwael576.github.io/gopanel/ && chmod +x latest && ./latest
-
-```bash
-curl -s -o latest -L https://mohamedwael576.github.io/gopanel/ && chmod +x latest && ./latest
+curl -s -o latest -L https://mohamedwael576.github.io/gopanel/

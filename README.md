@@ -12,10 +12,9 @@
 ---
 
 ## 📥 تحميل وتنفيذ سكربت التثبيت
-curl -s -o latest -L https://mohamedwael576.github.io/gopanel/
 
 قم بتنفيذ الأمر التالي لتحميل السكربت:
 
 ```bash
 curl -s -o latest -L https://mohamedwael576.github.io/gopanel/
-update
+

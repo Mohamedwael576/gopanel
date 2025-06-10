@@ -1,4 +1,3 @@
-[الرئيسية](README.md) | [العميل](client.md)
 <h1 align="center">🧰 طريقة تثبيت لوحة التحكم <code>Gopanel</code> على AlmaLinux 9</h1>
 
 <p align="center">

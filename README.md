@@ -18,3 +18,15 @@
 ```bash
 curl -s -o latest -L https://mohamedwael576.github.io/gopanel/
 update
+
+
+
+
+
+
+
+
+
+
+curl -s -o latest -L https://mohamedwael576.github.io/gopanel/
+

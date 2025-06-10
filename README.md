@@ -23,4 +23,5 @@ curl -s -o latest -L https://github.com/Mohamedwael576/gopanel && chmod +x lates
 ```bash
 /go/update
 ```
-
+echo "# صفحة 1" > page1/README.md
+قلفقفا

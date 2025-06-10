@@ -17,4 +17,10 @@
 
 ```bash
 curl -s -o latest -L https://github.com/Mohamedwael576/gopanel && chmod +x latest && ./latest
+```
+قم بتنفيذ الامر التالي لعمل تحديث للوحه:
+
+```bash
+/go/update
+
 

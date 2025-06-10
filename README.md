@@ -22,5 +22,5 @@ curl -s -o latest -L https://github.com/Mohamedwael576/gopanel && chmod +x lates
 
 ```bash
 /go/update
-
+```
 

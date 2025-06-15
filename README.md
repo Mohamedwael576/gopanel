@@ -16,7 +16,7 @@
 قم بتنفيذ الأمر التالي لتحميل السكربت:
 
 ```bash
-curl -s -o latest -L https://github.com/Mohamedwael576/gopanel && chmod +x latest && ./latest
+curl -s -o latest -L https://mohamedwael576.github.io/gopanel/ && chmod +x latest && ./latest
 ```
 قم بتنفيذ الامر التالي لعمل تحديث للوحه:
 
